@@ -1,0 +1,42 @@
+/*-----GENERAL TAGS-----*/
+
+body {
+    color: #2d2d30;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.container-fluid {
+	height: 100vh;
+}
+
+.scoreboard {
+	text-align: center;
+	padding: 25px;
+}
+
+.player {
+	display: inline-block;
+	padding: 15px;
+}
+
+.player h4 {
+	font-weight: bold;
+}
+
+.scorebox {
+	color: #2CB3C9;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#playerSelect {
+	float: left;
+}
+
+/*.carousel-inner > .item {
+    -webkit-transition: 0.6s ease-in-out left;
+    -moz-transition: 0.6s ease-in-out left;
+    -o-transition: 0.6s ease-in-out left;
+    transition: 1s ease-in-out left;
+}*/
