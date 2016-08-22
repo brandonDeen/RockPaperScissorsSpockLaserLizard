@@ -111,5 +111,5 @@ function updateScore(result){
 
 function aiChoose(){
 	var options = ['rock', 'paper', 'scissors', 'spock', 'lizard'];
-	return options[Math.floor( Math.random()  * 6 )];
+	return options[Math.floor( Math.random()  * 5 )];
 }
